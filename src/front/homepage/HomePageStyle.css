@@ -1,0 +1,65 @@
+
+/*.navbar {*/
+/*    top: 0;*/
+/*    background: rgba(0, 0, 0, 0.5);*/
+/*    color: #f1f1f1;*/
+/*    width: 100%;*/
+/*    margin-bottom: 0;*/
+/*}*/
+
+.btn {
+    opacity: 1;
+    color: white;
+}
+
+.card-body{
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    margin: 0;
+}
+
+.card{
+    margin: 15% 10%;
+}
+
+/*.rounded {*/
+/*    border-radius:5rem!important*/
+/*}*/
+
+.card-img-top {
+    width: 100%;
+    height: 10vw;
+    object-fit: cover;
+}
+
+h5 {
+    opacity: 1;
+    color: white;
+}
+
+.nav-item {
+    margin: 40% auto 30%;
+
+}
+
+
+body {
+    background: linear-gradient(-45deg, #69e2eb, #b0b2b3, #9a9c9c, #ffffff);
+    background-size: 400% 400%;
+    animation: gradient 5s ease infinite;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+
+
