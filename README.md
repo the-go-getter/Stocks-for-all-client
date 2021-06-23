@@ -1,5 +1,7 @@
 This repository contains the code for the front end of "Stocks4all" website which we are creating as a part of the project for CS5610-Web Development course under the instruction of Dr. Jose Annunziato. We used ReactJS with Redux to accomplish our goals.
 
+[Live deployment](https://stocklove-client.herokuapp.com/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
